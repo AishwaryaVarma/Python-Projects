@@ -2,7 +2,7 @@ from random import *
 from string import *
 from tkinter import *
 
-
+python-projs:D
 def pwdgen():
     e3.delete('1.0', END)
     l = int(e1.get())
